@@ -1,0 +1,6 @@
+# Entorno virtual
+.venv/
+
+#archivo .env
+env/
+.env
